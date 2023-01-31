@@ -2,7 +2,7 @@
     $i = 0;
     $j = 0;
     $k = 0;
-    define(BRtag,'<br>');
+    define('BRtag','<br>');
     for ($i=1;$i<=100;$i++) {
         $j = $i%3;
         $k = $i%5;
